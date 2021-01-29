@@ -1,5 +1,4 @@
 # hello-world
-just another repository
 I am an engineer student. 
 I wanna be a software developer.
 I am interested in programming languages like Matlab and Java .
